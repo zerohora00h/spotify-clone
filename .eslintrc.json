@@ -1,3 +1,3 @@
 {
-  "extends": "next/core-web-vitals"
+  "extends": ["next/core-web-vitals", "@zerohora/eslint-config/react-no-conflict-next"]
 }
